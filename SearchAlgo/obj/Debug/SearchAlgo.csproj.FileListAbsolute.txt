@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\SearchAlgo\SearchAlgo\bin\Debug\SearchAlgo.exe.config
+d:\documents\visual studio 2015\Projects\SearchAlgo\SearchAlgo\bin\Debug\SearchAlgo.exe
+d:\documents\visual studio 2015\Projects\SearchAlgo\SearchAlgo\bin\Debug\SearchAlgo.pdb
+d:\documents\visual studio 2015\Projects\SearchAlgo\SearchAlgo\obj\Debug\SearchAlgo.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\SearchAlgo\SearchAlgo\obj\Debug\SearchAlgo.Form1.resources
+d:\documents\visual studio 2015\Projects\SearchAlgo\SearchAlgo\obj\Debug\SearchAlgo.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\SearchAlgo\SearchAlgo\obj\Debug\SearchAlgo.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\SearchAlgo\SearchAlgo\obj\Debug\SearchAlgo.exe
+d:\documents\visual studio 2015\Projects\SearchAlgo\SearchAlgo\obj\Debug\SearchAlgo.pdb
