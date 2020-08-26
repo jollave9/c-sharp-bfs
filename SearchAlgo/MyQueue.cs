@@ -8,7 +8,7 @@ namespace SearchAlgo
 {
     class MyQueue
     {
-        private int[,] queue =new int[5000,2];
+        private int[,] queue =new int[10000,2];
         private int rear;
         private int pointer;
 
